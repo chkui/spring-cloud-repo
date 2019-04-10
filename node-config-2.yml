@@ -1,0 +1,3 @@
+server:
+  port: 9082
+message: Response Node Client2 With Tomcat!
